@@ -1,5 +1,7 @@
 # Facial Landmark Detection Application
 
+![Facial Landmark Detection](thumbnail.png)
+
 A web-based application that detects and visualizes facial landmarks in images using dlib and OpenCV. The application provides a user-friendly interface for uploading images or capturing photos through a webcam to detect facial landmarks.
 
 ## Features
